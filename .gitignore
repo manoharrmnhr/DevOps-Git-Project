@@ -1,0 +1,8 @@
+# Common examples
+*.log
+*.tmp
+__pycache__/
+node_modules/
+.env
+.idea/
+.vscode/
