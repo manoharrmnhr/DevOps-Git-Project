@@ -9,3 +9,14 @@
 
 ## Outcome
 A fully version-controlled DevOps project with a clean workflow.
+
+main/
+├── README.md
+├── .gitignore
+├── app.py
+├── TASK4_Documentation.md
+
+
+main
+dev
+feature
