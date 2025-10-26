@@ -1,4 +1,4 @@
-# DevOps Project (Task 4)
+# DevOps Project (Task 3)
 
 ## Objective
 Manage a DevOps project using Git and GitHub following best practices.
